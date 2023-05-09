@@ -8,6 +8,13 @@ Youtube trending videos have their
 
 My project collects data from Kaggle of data that is update daily. I have wrangled and analysed data from last 2 years of videos and visualized the data in form of tableau dashboard for easy understanding of lending trend. Check out the [project report]()
 
+# Table Of Contents
+  
+  - [Introduction of Airbnb](https://github.com/ALvee-611/YouTube-Analysis/blob/master/README.md#About-the-dataset)
+  - [About the Dataset](https://github.com/ALvee-611/YouTube-Analysis/blob/master/README.md#About-the-dataset)
+  - [Python libraries used](https://github.com/ALvee-611/YouTube-Analysis/blob/master/README.md#Guidelines-to-use-the-script)
+  - [Python libraries used](https://github.com/ALvee-611/YouTube-Analysis/blob/master/README.md#Conclusion-of-project)
+
 ## About the dataset
 
 Dataset includes details of Youtube
