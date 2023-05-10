@@ -10,8 +10,10 @@ I have wrangled and analysed data from last 2 years of videos and visualized the
   
   - [Introduction](https://github.com/ALvee-611/YouTube-Analysis/blob/master/README.md#About-the-dataset)
   - [About the Dataset](https://github.com/ALvee-611/YouTube-Analysis/blob/master/README.md#About-the-dataset)
-  - [Python libraries used](https://github.com/ALvee-611/YouTube-Analysis/blob/master/README.md#Guidelines-to-use-the-script)
-  - [Python libraries used](https://github.com/ALvee-611/YouTube-Analysis/blob/master/README.md#Conclusion-of-project)
+  - [Project outline](https://github.com/ALvee-611/YouTube-Analysis/blob/master/README.md#GuiProject-outline)
+  - [Summary of EDA process](https://github.com/ALvee-611/YouTube-Analysis/blob/master/README.md#Summary-of-EDA-process)
+  - [Summary of Hypothesis testing](https://github.com/ALvee-611/YouTube-Analysis/blob/master/README.md#Summary-of-Hypothesis-testing)
+  - [Conclusion of project](https://github.com/ALvee-611/YouTube-Analysis/blob/master/README.md#Conclusion-of-project)
 
 ## About the dataset
 
