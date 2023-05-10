@@ -3,7 +3,7 @@
 Youtube video statistics analyisis
 
 ## Objective
-I have wrangled and analysed data from last 2 years of videos and visualized the data in form of tableau dashboard for easy understanding of lending trend. 
+The goal of this project is to analyze the trending videos from youtube to understanding what makes a video start trending. Then once the vdeo features are analyzed, a ML model is build that will take a video title and predict how well it will perform.  
 <!-- Check out the [project report]() -->
 
 # Table Of Contents
