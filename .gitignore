@@ -2,4 +2,4 @@ youtube
 config.ini
 Data
 model_building.ipynb
-Scripts
+get_data.py
